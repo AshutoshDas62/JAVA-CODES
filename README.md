@@ -1,2 +1,2 @@
 # JAVA-CODES
-all the code of java
+The Java code from beginner to advance.
